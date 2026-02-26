@@ -1,0 +1,20 @@
+HTTP/1.1 201 Created
+wp-correlationid: 21f8de00-bd4c-4298-9b77-56e4098b3373
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer
+Accept-Ranges: bytes
+X-Served-By: cache-lcy-eglc8600035-LCY
+X-Cache-Hits: 0
+X-Timer: S1772115881.678072,VS0,VE728
+Date: Thu, 26 Feb 2026 14:24:41 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Length: 198
+Content-Type: application/json
+Expires: 0
+
+{"outcome":"3dsAuthenticationFailed","transactionReference":"40f4fe2a028a46ceb2d10fdcef4958f6","authentication":{"version":"2.1.0","eci":"07","transactionId":"6faa1e16-79f0-46c9-96ce-ac55de1a7a57"}}
