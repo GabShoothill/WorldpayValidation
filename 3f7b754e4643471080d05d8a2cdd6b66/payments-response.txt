@@ -1,0 +1,20 @@
+HTTP/1.1 201 Created
+wp-correlationid: 88b3c5af-f6ae-4f73-8aed-66d3d8d60298
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer
+Accept-Ranges: bytes
+X-Served-By: cache-lcy-eglc8600058-LCY
+X-Cache-Hits: 0
+X-Timer: S1772114446.365092,VS0,VE400
+Date: Thu, 26 Feb 2026 14:00:46 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Length: 725
+Content-Type: application/json
+Expires: 0
+
+{"outcome":"3dsDeviceDataRequired","transactionReference":"3f7b754e4643471080d05d8a2cdd6b66","deviceDataCollection":{"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI5OTA2MmRlZS05YTVmLTQ3MzMtOTBkOS03ZGU5YTI0YzlkYjUiLCJpYXQiOjE3NzIxMTQ0NDYsImV4cCI6MTc3MjExNTA0NiwiaXNzIjoiNjk3MjExMjAwN2ZiN2M0NmY2M2Q5MzgxIiwiT3JnVW5pdElkIjoiNjk3MjExMjA2MjI1Y2ExY2Q0YTMyMTcxIn0.AeLIP6s_nj13AJfL6cVqwIczisgg82icIlseD0Hkhb8","url":"https://centinelapistag.cardinalcommerce.com/V1/Cruise/Collect","bin":"400000"},"_actions":{"supply3dsDeviceData":{"method":"POST","href":"https://try.access.worldpay.com/api/payments/eyJrIjoxLCJkIjoic3dCR21hS0dCK2JsQmlGRXJVSEhWNys0NVJFMDRJS1ROUFFabEpudEs4aFN1S1BlaW1rRUt4cFovRmtabDZaNSJ9_5/3dsDeviceData"}}}
