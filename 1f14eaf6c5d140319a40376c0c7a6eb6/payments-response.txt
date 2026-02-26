@@ -1,0 +1,20 @@
+HTTP/1.1 202 Accepted
+wp-correlationid: efdd2805-4ffe-411a-8d12-037cbc7b5ded
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+x-xss-protection: 0
+referrer-policy: no-referrer
+Accept-Ranges: bytes
+X-Served-By: cache-lcy-eglc8600037-LCY, cache-lhr-egll1980035-LHR
+X-Cache-Hits: 0, 0
+X-Timer: S1772111475.421858,VS0,VE1449
+Date: Thu, 26 Feb 2026 13:11:16 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Length: 3029
+Content-Type: application/json
+Expires: 0
+
+{"outcome":"sentForSettlement","paymentId":"pay_fYkLBWcRsPHzQRUH-CPF0","transactionReference":"1f14eaf6c5d140319a40376c0c7a6eb6","paymentInstrument":{"type":"card/plain+masked","cardBin":"444433","lastFour":"1111","expiryDate":{"year":2026,"month":8},"cardBrand":"visa","fundingType":"credit","category":"consumer","issuerName":"UNKNOWN","paymentAccountReference":"Q1HJZ28RKA1EBL470G9XYG90R5D3E"},"issuer":{"authorizationCode":"719540"},"riskFactors":[{"risk":"notChecked","type":"cvc"},{"risk":"notSupplied","detail":"address","type":"avs"},{"risk":"notSupplied","detail":"postcode","type":"avs"}],"schemeReference":"060720116005062","_links":{"self":{"href":"https://try.access.worldpay.com/api/payments/eyJrIjoiazNhYjYzMiIsImxpbmtWZXJzaW9uIjoiNi4wLjAifQ%3D%3D.sN%3Ag8wd64bwkbrp0md%2BbPxcanBnk2zLdsIqSa1pR99G3jgZnmyC%2BQaA2ipR73t39lQ2gxUskvCIpEt%2Bf3K1jZWmNEI9HWPD6O4tT4xE%3A%3A2clW4Z%2BfnZKMutoUGX3m1%3AmLXktxOyzbyPqTxkGD8RL0OqGiER%2B1xVfij8kkPobBnxu%2B88%3A%3Ao0aHeaJsFlbF9V8bftfeoHYIH9xpDwaQTUkh3Q68hEmNYoWFPWdI5qWsLLGOMTxGu6PmvxHkVqFBqoKlRYSm98lFao9uqbmIDCkDm6rONrYPtw5SeMjfUSxWEhEeix6Wi%3A1Wt2ZZdC8KfJTfv1R21Ri7rvP4PubCboxIqNdh4goMKY5ZD%3Aol5qlWVTtKDGV3IYEts55Dy5PC0%3AOlZPrXEDulcSGdvEZfwYX3g%3D%3D"}},"_actions":{"refundPayment":{"method":"POST","href":"https://try.access.worldpay.com/api/payments/eyJrIjoiazNhYjYzMiIsImxpbmtWZXJzaW9uIjoiNi4wLjAifQ%3D%3D.sN%3Ag8wd64bwkbrp0md%2BbPxcanBnk2zLdsIqSa1pR99G3jgZnmyC%2BQaA2ipR73t39lQ2gxUskvCIpEt%2Bf3K1jZWmNEI9HWPD6O4tT4xE%3A%3A2clW4Z%2BfnZKMutoUGX3m1%3AmLXktxOyzbyPqTxkGD8RL0OqGiER%2B1xVfij8kkPobBnxu%2B88%3A%3Ao0aHeaJsFlbF9V8bftfeoHYIH9xpDwaQTUkh3Q68hEmNYoWFPWdI5qWsLLGOMTxGu6PmvxHkVqFBqoKlRYSm98lFao9uqbmIDCkDm6rONrYPtw5SeMjfUSxWEhEeix6Wi%3A1Wt2ZZdC8KfJTfv1R21Ri7rvP4PubCboxIqNdh4goMKY5ZD%3Aol5qlWVTtKDGV3IYEts55Dy5PC0%3AOlZPrXEDulcSGdvEZfwYX3g%3D%3D/refunds"},"partiallyRefundPayment":{"method":"POST","href":"https://try.access.worldpay.com/api/payments/eyJrIjoiazNhYjYzMiIsImxpbmtWZXJzaW9uIjoiNi4wLjAifQ%3D%3D.sN%3Ag8wd64bwkbrp0md%2BbPxcanBnk2zLdsIqSa1pR99G3jgZnmyC%2BQaA2ipR73t39lQ2gxUskvCIpEt%2Bf3K1jZWmNEI9HWPD6O4tT4xE%3A%3A2clW4Z%2BfnZKMutoUGX3m1%3AmLXktxOyzbyPqTxkGD8RL0OqGiER%2B1xVfij8kkPobBnxu%2B88%3A%3Ao0aHeaJsFlbF9V8bftfeoHYIH9xpDwaQTUkh3Q68hEmNYoWFPWdI5qWsLLGOMTxGu6PmvxHkVqFBqoKlRYSm98lFao9uqbmIDCkDm6rONrYPtw5SeMjfUSxWEhEeix6Wi%3A1Wt2ZZdC8KfJTfv1R21Ri7rvP4PubCboxIqNdh4goMKY5ZD%3Aol5qlWVTtKDGV3IYEts55Dy5PC0%3AOlZPrXEDulcSGdvEZfwYX3g%3D%3D/partialRefunds"},"reversePayment":{"method":"POST","href":"https://try.access.worldpay.com/api/payments/eyJrIjoiazNhYjYzMiIsImxpbmtWZXJzaW9uIjoiNi4wLjAifQ%3D%3D.sN%3Ag8wd64bwkbrp0md%2BbPxcanBnk2zLdsIqSa1pR99G3jgZnmyC%2BQaA2ipR73t39lQ2gxUskvCIpEt%2Bf3K1jZWmNEI9HWPD6O4tT4xE%3A%3A2clW4Z%2BfnZKMutoUGX3m1%3AmLXktxOyzbyPqTxkGD8RL0OqGiER%2B1xVfij8kkPobBnxu%2B88%3A%3Ao0aHeaJsFlbF9V8bftfeoHYIH9xpDwaQTUkh3Q68hEmNYoWFPWdI5qWsLLGOMTxGu6PmvxHkVqFBqoKlRYSm98lFao9uqbmIDCkDm6rONrYPtw5SeMjfUSxWEhEeix6Wi%3A1Wt2ZZdC8KfJTfv1R21Ri7rvP4PubCboxIqNdh4goMKY5ZD%3Aol5qlWVTtKDGV3IYEts55Dy5PC0%3AOlZPrXEDulcSGdvEZfwYX3g%3D%3D/reversals"}}}
