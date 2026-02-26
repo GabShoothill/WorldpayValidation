@@ -1,0 +1,3 @@
+POST /api/payments/eyJrIjoxLCJkIjoiZmVuT2pUdWFBaWEzZkZZTUcxMk0zQzR1S1FJTXhXVWdjNVZ3MHRKNUtYQlN1S1BlaW1rRUt4cFovRmtabDZaNSJ9_6/3dsChallenges HTTP/1.1
+Host: try.access.worldpay.com
+
