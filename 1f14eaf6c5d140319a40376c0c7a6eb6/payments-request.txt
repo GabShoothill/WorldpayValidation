@@ -1,0 +1,4 @@
+POST /api/payments HTTP/1.1
+Content-Type: application/json; charset=utf-8
+
+{"transactionReference":"1f14eaf6c5d140319a40376c0c7a6eb6","merchant":{"entity":"PO4089422214"},"instruction":{"method":"card","paymentInstrument":{"type":"checkout","sessionHref":"https://try.access.worldpay.com/sessions/eyJrIjoxLCJkIjoiVnlvSkc3ZXB1T3N4N3ZaNWtPYkMyUXExTGJ3Y20xRUl5YkxNb1ltUFM2UVVoVUZlZHJ6dUtTM2hGM3Jza3VVdiJ9","cardHolderName":"WORLDPAY VALIDATION"},"narrative":{"line1":"HouseBuilder Pro","line2":"Payment Request"},"value":{"currency":"GBP","amount":5000},"settlement":{"auto":true,"cancelOn":{"cvcNotMatched":"disabled","avsNotMatched":"disabled"}}},"channel":"moto"}
