@@ -1,0 +1,20 @@
+HTTP/1.1 201 Created
+wp-correlationid: 702ef4ad-aca8-494d-9c16-029802354d4d
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer
+Accept-Ranges: bytes
+X-Served-By: cache-lcy-egml8630048-LCY, cache-lhr-egll1980042-LHR
+X-Cache-Hits: 0, 0
+X-Timer: S1772113827.942315,VS0,VE267
+Date: Thu, 26 Feb 2026 13:50:27 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Length: 725
+Content-Type: application/json
+Expires: 0
+
+{"outcome":"3dsDeviceDataRequired","transactionReference":"87f30c1c48f24f469d873435704a835d","deviceDataCollection":{"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI5YzJhYmQyZC1kYjA4LTQ1YzEtOWNkYi00OWQ5YmE4NzQ3MzEiLCJpYXQiOjE3NzIxMTM4MjcsImV4cCI6MTc3MjExNDQyNywiaXNzIjoiNjk3MjExMjAwN2ZiN2M0NmY2M2Q5MzgxIiwiT3JnVW5pdElkIjoiNjk3MjExMjA2MjI1Y2ExY2Q0YTMyMTcxIn0.hYcefLEmPVnLW8tq1RVyqTRIb-iGGyxh0oyRvFO6t8w","url":"https://centinelapistag.cardinalcommerce.com/V1/Cruise/Collect","bin":"400000"},"_actions":{"supply3dsDeviceData":{"method":"POST","href":"https://try.access.worldpay.com/api/payments/eyJrIjoxLCJkIjoiY0J2cGhOZWRVdmNjenNBeWczVnlObGQ3ajFsYm85cVcya0YzYjZLT3d2QlN1S1BlaW1rRUt4cFovRmtabDZaNSJ9_5/3dsDeviceData"}}}
