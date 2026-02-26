@@ -1,0 +1,6 @@
+POST /api/payments/eyJrIjoxLCJkIjoic3dCR21hS0dCK2JsQmlGRXJVSEhWNys0NVJFMDRJS1ROUFFabEpudEs4aFN1S1BlaW1rRUt4cFovRmtabDZaNSJ9_5/3dsDeviceData HTTP/1.1
+Host: try.access.worldpay.com
+Content-Type: application/json; charset=utf-8
+Content-Length: 64
+
+{"collectionReference":"0_f525878c-4d35-4bf0-9247-9bcb263d4475"}
