@@ -1,0 +1,20 @@
+HTTP/1.1 201 Created
+wp-correlationid: 0d55436d-4116-440f-8c1a-47cf00dd1496
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer
+Accept-Ranges: bytes
+X-Served-By: cache-lhr-egll1980022-LHR
+X-Cache-Hits: 0
+X-Timer: S1772114448.116146,VS0,VE1371
+Date: Thu, 26 Feb 2026 14:00:49 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Length: 1700
+Content-Type: application/json
+Expires: 0
+
+{"outcome":"3dsChallenged","transactionReference":"3f7b754e4643471080d05d8a2cdd6b66","authentication":{"version":"2.1.0"},"challenge":{"reference":"FQPtG1GhedvFcFLM3OH0","url":"https://centinelapistag.cardinalcommerce.com/V2/Cruise/StepUp","jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJjMGI1OGIyNC1iYjBiLTRiZjgtOWQ4MC04NTI4ZmJkZTdiNjIiLCJpYXQiOjE3NzIxMTQ0NDksImV4cCI6MTc3MjExNTA0OSwiaXNzIjoiNjk3MjExMjAwN2ZiN2M0NmY2M2Q5MzgxIiwiT3JnVW5pdElkIjoiNjk3MjExMjA2MjI1Y2ExY2Q0YTMyMTcxIiwiUmV0dXJuVXJsIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzOTQvYXBpL3BheS90aHJlZWRzcmVkaXJlY3QiLCJQYXlsb2FkIjoie1wiUGF5bG9hZFwiOlwiZXlKdFpYTnpZV2RsVkhsd1pTSTZJa05TWlhFaUxDSnRaWE56WVdkbFZtVnljMmx2YmlJNklqSXVNUzR3SWl3aWRHaHlaV1ZFVTFObGNuWmxjbFJ5WVc1elNVUWlPaUkzWXpRek5qRm1NaTAyTmpRNExUUTNZemd0WVRkbE1TMDVNVE14TldVME56STFNbVFpTENKaFkzTlVjbUZ1YzBsRUlqb2lZemcyTUdSbU5ETXRZalJoTkMwMFkyRTNMV0V6TjJZdE16STFPREF3TlRBeU1HWm1JaXdpWTJoaGJHeGxibWRsVjJsdVpHOTNVMmw2WlNJNklqQXlJbjBcIixcIkFDU1VybFwiOlwiaHR0cHM6XFwvXFwvMG1lcmNoYW50YWNzc3RhZy5jYXJkaW5hbGNvbW1lcmNlLmNvbVxcL01lcmNoYW50QUNTV2ViXFwvY3JlcS5qc3BcIixcIlRyYW5zYWN0aW9uSWRcIjpcIkZRUHRHMUdoZWR2RmNGTE0zT0gwXCJ9IiwiT2JqZWN0aWZ5UGF5bG9hZCI6ZmFsc2V9.1TZIAFfa0yJYh-xIDYHuFMiJxXtCH6S4GYmBjD8PcvU","payload":"eyJtZXNzYWdlVHlwZSI6IkNSZXEiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMS4wIiwidGhyZWVEU1NlcnZlclRyYW5zSUQiOiI3YzQzNjFmMi02NjQ4LTQ3YzgtYTdlMS05MTMxNWU0NzI1MmQiLCJhY3NUcmFuc0lEIjoiYzg2MGRmNDMtYjRhNC00Y2E3LWEzN2YtMzI1ODAwNTAyMGZmIiwiY2hhbGxlbmdlV2luZG93U2l6ZSI6IjAyIn0"},"_actions":{"complete3dsChallenge":{"method":"POST","href":"https://try.access.worldpay.com/api/payments/eyJrIjoxLCJkIjoic3dCR21hS0dCK2JsQmlGRXJVSEhWNys0NVJFMDRJS1ROUFFabEpudEs4aFN1S1BlaW1rRUt4cFovRmtabDZaNSJ9_5/3dsChallenges"}}}
